@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/laukinajah-bandung/static/css/main.cf890fdb.css",
+    "main.js": "/laukinajah-bandung/static/js/main.f63f1bda.js",
+    "static/js/453.da37c932.chunk.js": "/laukinajah-bandung/static/js/453.da37c932.chunk.js",
+    "index.html": "/laukinajah-bandung/index.html",
+    "main.cf890fdb.css.map": "/laukinajah-bandung/static/css/main.cf890fdb.css.map",
+    "main.f63f1bda.js.map": "/laukinajah-bandung/static/js/main.f63f1bda.js.map",
+    "453.da37c932.chunk.js.map": "/laukinajah-bandung/static/js/453.da37c932.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf890fdb.css",
+    "static/js/main.f63f1bda.js"
+  ]
+}
